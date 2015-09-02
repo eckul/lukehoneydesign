@@ -1,0 +1,1 @@
+[17-May-2015 06:25:47 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/lukehoneydesign/public_html/eckul/wp-content/plugins/js_composer/include/templates/shortcodes/vc_empty_space.php on line 10

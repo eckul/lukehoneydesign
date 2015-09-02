@@ -1,0 +1,125 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*fix page header on chrome*/
+@media screen and (-webkit-min-device-pixel-ratio:0) { 
+
+}
+
+
+@media (max-width: 1200px) {
+	
+.eckul-header.broke-out.broke-out-99.bg-parallax-parent div.parallax-inner { /*background-size: cover !important;*/  /*background-size: 3000px auto !important;*/
+
+
+background-size: 1200px auto !important;
+
+}
+	
+	
+	
+	}
+	
+	
+	@media (max-width: 992px) {
+		
+		
+		.eckul-header.broke-out.broke-out-99.bg-parallax-parent div.parallax-inner { /*background-size: cover !important;*/  /*background-size: 3000px auto !important;*/
+
+
+background-size: 992px auto !important;
+
+}
+	
+	
+	
+	
+		
+	
+.contact-dets .text { display:none;
+
+}
+
+.contact-dets { padding-top:30px;}
+
+.contact-dets li {display:inline-block;}
+
+
+i.fa {   font-size:25px; padding:5px; transition: font-size 0.2s }
+
+i.fa:hover {   font-size:20px;  }
+
+
+.beatport img {
+	
+	max-width:25px; transition: max-width 0.2s ; 	margin-bottom:10px;
+	
+}
+
+.beatport img:hover{
+	
+	max-width:20px;
+	
+}
+
+
+.beatport {
+	
+
+	
+}
+
+	
+	}
+	
+	
+	@media (max-width: 936px) {
+		
+		
+		
+		.eckul-header.broke-out.broke-out-99.bg-parallax-parent div.parallax-inner { /*background-size: cover !important;*/  /*background-size: 3000px auto !important;*/
+
+
+background-size: 936px auto !important;
+
+}
+	
+		
+	
+
+	
+	}
+	
+	
+	@media (max-width: 775px) {
+		
+		
+		.eckul-header.broke-out.broke-out-99.bg-parallax-parent div.parallax-inner { /*background-size: cover !important;*/  /*background-size: 3000px auto !important;*/
+
+
+background-size: 775px auto !important;
+
+}
+
+
+.contact-dets { float:none; text-align:center; padding-top:5px;
+
+}
+	
+	
+
+	}
+	
+	
+		@media (max-width: 500px) {
+			
+		.eckul-header.broke-out.broke-out-99.bg-parallax-parent div.parallax-inner { /*background-size: cover !important;*/  /*background-size: 3000px auto !important;*/
+
+
+background-size: 500px auto !important;
+
+}
+		
+			
+			
+		}
